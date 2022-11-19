@@ -1,2 +1,7 @@
-package project111;public interface Helpable {
+package project111;
+
+public interface HelpAble {
+    public void firstAid();
+
+
 }
