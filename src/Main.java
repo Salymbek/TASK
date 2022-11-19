@@ -3,6 +3,25 @@ import project111.*;
 public class Main {
     public static void main(String[] args) {
 
+        /**  1. HelpAble (method: void firstAid();), SwimAble (method:
+           void swim();) деген интерфейтерди тузунуз, методдору менен.
+
+
+
+
+         2. Ал интерфейти implements кылган Employee
+         (method: void say();) деген abstract класс болсун, методу м/н.
+
+
+
+         3. Абстрак класстты мурастаган
+         Teacher ( void teaching();) жана Driver ( void driving();) класстары болсун, методу менен.
+
+
+
+         4 Полиморфизм колдонуп 8 турдуу объект тузуп,
+         ар бир тузгон объектте бардык методдорду чакырыныз.**/
+
 
 
 
@@ -102,34 +121,8 @@ public class Main {
 
 
 
-
-
-      /***  1. HelpAble (method: void firstAid();), SwimAble (method:
-       *  void swim();) деген интерфейтерди тузунуз, методдору менен.
-       *
-       *
-       *
-       *
-        2. Ал интерфейти implements кылган Employee
-        (method: void say();) деген abstract класс болсун, методу м/н.
-
-
-
-        3. Абстрак класстты мурастаган
-        Teacher ( void teaching();) жана Driver ( void driving();) класстары болсун, методу менен.
-
-
-
-        4 Полиморфизм колдонуп 8 турдуу объект тузуп,
-       ар бир тузгон объектте бардык методдорду чакырыныз.***/
     }
 
-    public static void getStart(){
-        System.out.println("Sport");
-    }
-    public static String getName(){
-        return "Asan";
-    }
 
 
 }
